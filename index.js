@@ -11,6 +11,12 @@ const MATERIALS_CONFIG = [
     { shop: 'Sagosa', url: 'https://www.sagosa.com.ar/2755-malla', materialName: 'malla' },
     { shop: 'Mottesi', url: 'https://mottesimateriales.com.ar/construccion/hierro', materialName: 'hierro' },
     { shop: 'Mottesi', url: 'https://mottesimateriales.com.ar/construccion/mallas/', materialName: 'malla' },
+    { shop: 'Mottesi', url: 'https://mottesimateriales.com.ar/construccion/aridos/', materialName: 'bolsón' },
+    { shop: 'Mottesi', url: 'https://mottesimateriales.com.ar/construccion/cementicios/', materialName: 'cemento' },
+    { shop: 'NeoMat', url: 'https://www.neomat.com.ar/obra-gruesa/cementicio', materialName: 'cemento' },
+    { shop: 'NeoMat', url: 'https://www.neomat.com.ar/obra-gruesa/fierrera', materialName: 'hierro nervado' },
+    { shop: 'NeoMat', url: 'https://www.neomat.com.ar/obra-gruesa/fierrera', materialName: 'malla' },
+
 ];
 
 // Utility to format the date
