@@ -1,1 +1,10 @@
-node_modules
+# Ignore node_modules directory
+node_modules/
+
+# Ignore all CSV files or the csv folder
+*.csv
+csv/
+
+# Ignore all JSON files or the json folder
+*.json
+json/
